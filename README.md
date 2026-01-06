@@ -50,6 +50,3 @@
 * **Core System:** WooCommerce (สำหรับระบบสั่งอาหารออนไลน์)
 * **Responsiveness:** Mobile-First Design Principles
 
----
-
-© 2024 Project by [ใส่ชื่อของคุณ] - Basic Software Development Course
