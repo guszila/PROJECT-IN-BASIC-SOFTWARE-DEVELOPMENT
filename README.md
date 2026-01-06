@@ -6,7 +6,7 @@
 ## 📦 Source Code & Installation
 เนื่องจากไฟล์โปรเจคมีขนาดใหญ่ (1.67 GB) จึงได้ทำการฝากไฟล์ไว้ที่ Google Drive เพื่อความสะดวกในการดาวน์โหลด:
 
-* 🔗 **[Download Full Project (.zip)]** : [(https://drive.google.com/file/d/1OqDNCEHagbc5x2dV-wYGQg0syXsBgrn2/view?usp=drive_link)]
+* 🔗 **[Download Full Web_Project (.zip)]** : [(https://drive.google.com/file/d/1OqDNCEHagbc5x2dV-wYGQg0syXsBgrn2/view?usp=drive_link)]
 * 🗄️ **Database File** : ไฟล์ `SQL_ร้านครัวคุณพล.sql` ใน Repository นี้
 ## 🎯 วัตถุประสงค์ของโปรเจค (Project Objectives)
 
